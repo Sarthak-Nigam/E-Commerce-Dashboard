@@ -1,3 +1,7 @@
+![Dashboard Pic]((https://github.com/Sarthak-Nigam/E-Commerce-Dashboard/blob/main/Dashboard%20image.jpg) "Dashboard image")
+
+
+
 # E-Commerce Dashboard
 This repository contains an E-Commerce Dashboard developed using Power BI to visualize key business metrics and performance indicators. The dashboard provides insights into sales trends, customer behavior, product performance, and overall business health to enable data-driven decision-making.
 
@@ -17,7 +21,7 @@ DAX (Data Analysis Expressions): For advanced data calculations and measures in 
 ### 🚀 Getting Started
 Prerequisites  <br>
 To view or modify the dashboard, you need:  <br>
-Power BI Desktop (Download here)  <br>
+1) Power BI Desktop  <br>
 
 Steps to View the Dashboard:  <br>
 1) Download or clone this repository.  <br>
@@ -28,7 +32,6 @@ Steps to View the Dashboard:  <br>
 
 ### 📁 Project Structure
 /E-Commerce Dashboard.pbix: Power BI project file containing the dashboard layout and visualizations.  <br>
-/data/: (Optional) Include any sample datasets if required for testing.
 
 ### 🌟 Use Cases
 Business Analysts: To analyze sales and customer behavior.  <br>
