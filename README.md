@@ -15,16 +15,16 @@ Data Sources: CSV files, SQL databases, or live API connections (based on user d
 DAX (Data Analysis Expressions): For advanced data calculations and measures in Power BI.  <br>
 
 ### 🚀 Getting Started
-Prerequisites
+Prerequisites  <br>
 To view or modify the dashboard, you need:  <br>
-
 Power BI Desktop (Download here)  <br>
+
 Steps to View the Dashboard:  <br>
-Download or clone this repository.  <br>
-git clone https://github.com/yourusername/e-commerce-dashboard.git  <br>
-Open the .pbix file in Power BI Desktop.  <br>
-Connect to your data source (if necessary) and refresh the data.  <br>
-Explore the dashboard and use filters to gain insights.
+1) Download or clone this repository.  <br>
+   git clone https://github.com/yourusername/e-commerce-dashboard.git  <br>
+2) Open the .pbix file in Power BI Desktop.  <br>
+3) Connect to your data source (if necessary) and refresh the data.  <br>
+4) Explore the dashboard and use filters to gain insights.
 
 ### 📁 Project Structure
 /E-Commerce Dashboard.pbix: Power BI project file containing the dashboard layout and visualizations.
