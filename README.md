@@ -21,7 +21,7 @@ DAX (Data Analysis Expressions): For advanced data calculations and measures in 
 ### 🚀 Getting Started
 Prerequisites  <br>
 To view or modify the dashboard, you need:  <br>
-1) Power BI Desktop  <br>
+Power BI Desktop  <br>
 
 Steps to View the Dashboard:  <br>
 1) Download or clone this repository.  <br>
@@ -37,9 +37,6 @@ Steps to View the Dashboard:  <br>
 Business Analysts: To analyze sales and customer behavior.  <br>
 E-Commerce Managers: To track product performance and profitability.  <br>
 Executives: To monitor the overall health of the e-commerce business.  <br>
-
-### 📈 Sample Visualizations
-(Add a screenshot of your dashboard here)
 
 ### 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
