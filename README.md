@@ -21,13 +21,13 @@ Power BI Desktop (Download here)  <br>
 
 Steps to View the Dashboard:  <br>
 1) Download or clone this repository.  <br>
-   git clone https://github.com/yourusername/e-commerce-dashboard.git  <br>
+   git clone https://github.com/Sarthak-Nigam/E-Commerce-Dashboard.git  <br>
 2) Open the .pbix file in Power BI Desktop.  <br>
 3) Connect to your data source (if necessary) and refresh the data.  <br>
 4) Explore the dashboard and use filters to gain insights.
 
 ### 📁 Project Structure
-/E-Commerce Dashboard.pbix: Power BI project file containing the dashboard layout and visualizations.
+/E-Commerce Dashboard.pbix: Power BI project file containing the dashboard layout and visualizations.  <br>
 /data/: (Optional) Include any sample datasets if required for testing.
 
 ### 🌟 Use Cases
@@ -45,5 +45,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Feel free to fork this repository and submit pull requests for any enhancements or fixes!
 
 ### Connect with Me
-GitHub: https://github.com/Sarthak-Nigam/
+GitHub: https://github.com/Sarthak-Nigam/    <br>
 LinkedIn: https://www.linkedin.com/in/nigamsarthak/
