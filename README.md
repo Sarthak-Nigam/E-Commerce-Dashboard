@@ -1,4 +1,4 @@
-![Dashboard Pic]((https://github.com/Sarthak-Nigam/E-Commerce-Dashboard/blob/main/Dashboard%20image.jpg) "Dashboard image")
+![Dashboard Pic]((https://github.com/Sarthak-Nigam/E-Commerce-Dashboard/blob/main/Dashboard%20image.jpg?raw=true) "Dashboard image")
 
 
 
