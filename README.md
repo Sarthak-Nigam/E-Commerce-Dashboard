@@ -31,7 +31,7 @@ Steps to View the Dashboard:  <br>
 4) Explore the dashboard and use filters to gain insights.
 
 ### 📁 Project Structure
-/E-Commerce Dashboard.pbix: Power BI project file containing the dashboard layout and visualizations.  <br>
+E-Commerce Dashboard.pbix: Power BI project file containing the dashboard layout and visualizations.  <br>
 
 ### 🌟 Use Cases
 Business Analysts: To analyze sales and customer behavior.  <br>
